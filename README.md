@@ -1,6 +1,6 @@
 This HR Application is designed to manage employee records and perform CRUD (Create, Read, Update, Delete) operations, using a layered architecture for clean separation of concerns and maintainability.
 
-The application is divided into the following three key layers:
+The application is divided into the following two key layers:
 
 Business Logic Layer: The core of the application, this layer contains the business rules and logic. It processes user input received from the presentation layer, validates data, and applies business rules before passing it to the data access layer. It ensures that the application's functionality, such as creating new employee records or updating existing ones, adheres to the business requirements.
 
